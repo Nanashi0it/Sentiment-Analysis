@@ -1,2 +1,1 @@
-# Sentiment-Analysis
- Big Data Applications: Sentiment analysis
+#  Big Data Applications: Sentiment analysis
